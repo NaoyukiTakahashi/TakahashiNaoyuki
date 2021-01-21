@@ -1,0 +1,32 @@
+﻿  player.cpp
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\main.h(40): warning C4005: '_DEBUG': マクロが再定義されました。
+  c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\main.h(40): note: コマンド ラインの引数: '_DEBUG' の前の定義を確認してください
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\scene.h(15): warning C4005: 'MAX_PRIORITY': マクロが再定義されました。
+  c:\program files (x86)\windows kits\8.1\include\um\winspool.h(307): note: 'MAX_PRIORITY' の以前の定義を確認してください
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\scene2d.h(38): warning C4927: 変換が正しくありません。複数のユーザー定義の変換が暗黙的に適用されています。
+  c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\scene2d.h(38): note: コンストラクター 'D3DXVECTOR2::D3DXVECTOR2(const FLOAT *)' を呼び出しているとき
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx9math.inl(65): note: 'D3DXVECTOR2::D3DXVECTOR2' の宣言を確認してください
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\barrier.h(21): warning C4005: 'MAX_BULLET_LIFE': マクロが再定義されました。
+  c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\bullet.h(22): note: 'MAX_BULLET_LIFE' の以前の定義を確認してください
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(155): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(156): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(163): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(164): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(179): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(180): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(187): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(188): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(328): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(329): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(335): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(336): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(349): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(350): warning C4244: '-=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(356): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(357): warning C4244: '+=': 'double' から 'float' への変換です。データが失われる可能性があります。
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(507): warning C4473: 'fscanf': 書式文字列として渡された引数が不足しています
+  c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(507): note: プレースホルダーとそのパラメーターには 2 の可変個引数が必要ですが、1 が指定されています。
+  c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\player.cpp(507): note: 不足している可変個引数 2 が書式文字列 '%[^,]' に必要です
+  2D Shooting.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\2D Shooting\Debug\2D Shooting.exe
+  2D Shooting.vcxproj -> C:\Users\student\documents\visual studio 2015\Projects\2D Shooting\Debug\2D Shooting.pdb (Full PDB)

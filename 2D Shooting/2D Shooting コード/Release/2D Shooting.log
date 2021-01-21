@@ -1,0 +1,14 @@
+﻿  scene.cpp
+  C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\scene.h(15): warning C4005: 'MAX_PRIORITY': マクロが再定義されました。
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winspool.h(307): note: 'MAX_PRIORITY' の以前の定義を確認してください
+c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\scene2d.h(38): warning C4927: 変換が正しくありません。複数のユーザー定義の変換が暗黙的に適用されています。
+  c:\users\student\documents\visual studio 2015\projects\2d shooting\2d shooting\scene2d.h(38): note: コンストラクター 'D3DXVECTOR2::D3DXVECTOR2(const FLOAT *)' を呼び出しているとき
+  c:\program files (x86)\microsoft directx sdk (june 2010)\include\d3dx9math.inl(65): note: 'D3DXVECTOR2::D3DXVECTOR2' の宣言を確認してください
+  コード生成しています。
+  0 of 343 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  2D Shooting.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\2D Shooting\Release\2D Shooting.exe
+  2D Shooting.vcxproj -> C:\Users\student\Documents\Visual Studio 2015\Projects\2D Shooting\Release\2D Shooting.pdb (Full PDB)
